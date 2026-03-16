@@ -74,6 +74,7 @@ Wrapped input and button in st.form so Enter triggers submission
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+- [ ] 
 
 
 
